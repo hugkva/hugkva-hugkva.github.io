@@ -4,7 +4,7 @@ body {
 }
 
 header {
-    width: 95%;
+    width: 99%;
     height: 15%;
 
     font-family: "Roboto", sans-serif;
@@ -22,12 +22,12 @@ header {
 }
 
 content {
-    width: 95%;
+    width: 99%;
     height: 70%;
 }
 
 footer{
-    width: 95%;
+    width: 99%;
     height: 5%;
 
     font-family: "Roboto", sans-serif;
